@@ -65,5 +65,6 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/537f2b36-a06e-4328-afbb-99aae35d16a5" />
 
+
 **RESULTS**
 Thus the SR flipflop using verilog and validating their functionality using their functional tables is implemented and verified.
